@@ -1,5 +1,5 @@
 # Sefaz CFe Client Downloader
-Client to circumvent restrictions on CFe download from the [Secretaria da Fazenda (Sefaz)](https://servicos.sefaz.ce.gov.b) portal
+Client to bypass restrictions on CFe download from the [Secretaria da Fazenda (Sefaz)](https://servicos.sefaz.ce.gov.b) portal
 
 Step 1 - Go to [secure environment](https://servicos.sefaz.ce.gov.br/internet/acessoseguro/servicosenha/logarusuario/login.asp) and log in
 
